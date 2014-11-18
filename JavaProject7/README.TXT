@@ -1,5 +1,5 @@
 PROJECT TITLE: Project 7
-VERSION: 1.3
+VERSION: 1.2
 AUTHORS: Matt Warman
 USER INSTRUCTIONS: Simply follow the instructions prompted during the program execution
 
